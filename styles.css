@@ -269,17 +269,10 @@ body {
   }
 
 
-
-#about-container ul{
- 
-
-}
-
 .about-column{
   display: flex;
   flex-direction: column;
   font-family: monospace;
-  justify-content: center;
   align-items: center;
   font-size: 14px;
  
@@ -296,4 +289,10 @@ body {
   padding-bottom: 15px;
   font-size:1.2rem;
   text-align: center;
+}
+
+.about-column pre{
+  display: flex; 
+  justify-content: center;">
+
 }
