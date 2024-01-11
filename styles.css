@@ -51,7 +51,8 @@ body {
   border-radius: 30%;
   position: absolute;
   background-color: #424551;
-  animation: water 6s linear forwards;
+/*  turning off anim for now */
+  animation: water 0s linear forwards;
   z-index: 1;
 }
 
